@@ -81,3 +81,15 @@ def suma_lista():
 
 # Ejecución del módulo extra
 suma_lista()
+
+```
+
+---
+
+## 🛠️ Conceptos Técnicos Aplicados
+
+* **Casteo Directo de Tipos de Datos (`Type Casting`)**: Uso de la función constructora `int()` para forzar y transformar las cadenas de texto crudas provenientes de `input()` en variables numéricas enteras, evitando errores de operaciones lógicas incompatibles.
+* **Operador de Residuo o Módulo (`%`)**: Herramienta de aritmética discreta que extrae el resto de una división entera. Al evaluar con `% 2`, permite determinar con absoluta certeza matemática la paridad de una variable aleatoria o constante.
+* **Inserción Dinámica en Listas (`In-Place Appending`)**: Aplicación del método integrado `.append()` dentro de estructuras de bucle para construir colecciones lineales de longitud variable sobre la memoria en tiempo de ejecución.
+* **Encapsulamiento Modular (`def`)**: Agrupación de bloques lógicos de código bajo funciones nombradas independientes, promoviendo la legibilidad, el aislamiento de variables y la reutilización de código limpio.
+
